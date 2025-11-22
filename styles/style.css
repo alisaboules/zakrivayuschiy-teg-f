@@ -227,7 +227,7 @@ section {
   gap: 8px;
   margin-bottom: 100px;
   flex-wrap: wrap;
-  z-index: 0;  
+  z-index: 0;
 }
 
 dialog::backdrop {
