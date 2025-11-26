@@ -1,1 +1,1 @@
-https://alisaboules.github.io/zakrivayuschiy-teg-ad/
+https://alisaboules.github.io/zakrivayuschiy-teg-f/
